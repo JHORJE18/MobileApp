@@ -1,4 +1,8 @@
+/*: https://surjithctly.in/
 
+Copyright © All rights Reserved 
+
+*/
 
 $(function() {
     "use strict";
