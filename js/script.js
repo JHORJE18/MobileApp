@@ -45,6 +45,10 @@ $(function() {
         $(this).parents('.nav-menu').removeClass('menu-is-open');
     })
 
+    function Hello(){
+        console.log('Hola Mundo World Hello');
+    }
+
     /*-----------------------------------
      * ONE PAGE SCROLLING
      *-----------------------------------*/
@@ -77,7 +81,7 @@ $(function() {
         }
     });
     /*-----------------------------------
-     * OWL CAROUSEL
+     * OWL CARRO
      *-----------------------------------*/
     var $testimonialsDiv = $('.testimonials');
     if ($testimonialsDiv.length && $.fn.owlCarousel) {
