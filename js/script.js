@@ -1,3 +1,18 @@
+/*
+
+Style   : MobApp Script JS
+Version : 1.0
+ioefjoasjiosadjaisjdipsajdaipsdjsaopjdpsajdioashcij
+adaskmì0 sau90àgoskgj0aduf'+ad
+kfaif¡odak
+f'of'¡adj
+'a9hf
+e'kfa¡fueafa¡URI     : https://surjithctly.in/
+
+Copyright © All rights Reserved 
+
+*/
+
 $(function() {
     "use strict";
 
