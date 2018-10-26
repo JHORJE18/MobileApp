@@ -83,15 +83,6 @@ $(function() {
     /*-----------------------------------
      * OWL CARRO
      *-----------------------------------*/
-    var $testimonialsDiv = $('.testimonials');
-    if ($testimonialsDiv.length && $.fn.owlCarousel) {
-        $testimonialsDiv.owlCarousel({
-            items: 1,
-            nav: true,
-            dots: false,
-            navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>']
-        });
-    }
 
     var $galleryDiv = $('.img-gallery');
     if ($galleryDiv.length && $.fn.owlCarousel) {
