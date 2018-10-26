@@ -1,9 +1,3 @@
-/*: https://surjithctly.in/
-
-Copyright © All rights Reserved 
-
-*/
-
 $(function() {
     "use strict";
 
@@ -75,9 +69,7 @@ $(function() {
             }
         }
     });
-    /*-----------------------------------
-     * OWL CARRO
-     *-----------------------------------*/
+// CARROUSEL 
     var $testimonialsDiv = $('.testimonials');
     if ($testimonialsDiv.length && $.fn.owlCarousel) {
         $testimonialsDiv.owlCarousel({
